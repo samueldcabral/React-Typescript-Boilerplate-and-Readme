@@ -1,44 +1,42 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  <br>
+   <img src="" alt="My logo"/>
+  <br>
+</h1>
+<p align="center">  
+<p>Here are my badges in this row ->  
+ <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+</p>
 
-## Available Scripts
+<p align="center">
+  A brief description of what this repo is all about. You can also use <strong>bold text</strong> to highlight important parts of your description.
+</p>
 
-In the project directory, you can run:
+## Table of contents
 
-### `npm start`
+- [table of contents](#table-of-contents)
+- [Installation](#installation)
+  - [Web projects](#web-projects)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Table of Contents
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Sometimes you want to include pieces of your code in your readme.
 
-### `npm test`
+```javascript
+photos.length === 12; // true
+ads.length === 6; // true
+```
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2 id="screen">Screenshots</h2>
+<h2 id="installation">Installation</h2>
 
-### `npm run build`
+`Hightlight` something in a cool way.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contributing
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+You may contribute in several ways like creating new features, fixing bugs, improving documentation and examples
+or translating any document here to your language. [Find more information in CONTRIBUTING.md](CONTRIBUTING.md).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## License
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[MIT](LICENSE) - Jota Teles - 2017
