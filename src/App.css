@@ -1,0 +1,8 @@
+.App {
+  width: 1920px;
+  height: 1080px;
+  background-image: url("./Airport-1.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
